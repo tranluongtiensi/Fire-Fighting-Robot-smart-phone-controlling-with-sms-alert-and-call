@@ -2,4 +2,4 @@
   
 ![](/Image/img.jpg)
 
-![](/Short video/video.gif)
+![](/Shortvideo/video.gif)
