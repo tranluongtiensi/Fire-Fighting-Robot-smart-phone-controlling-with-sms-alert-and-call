@@ -5,7 +5,7 @@
 
 ## Component
 * [Arduino UNO R3](https://www.amazon.com/ARDUINO-A000066-Uno-DIP-1-5/dp/B00CBZ4CII/ref=sr_1_1?keywords=arduino+uno+r3&qid=1681650194&sprefix=arduino+uno%2Caps%2C824&sr=8-1)
-* [Flame Sensor](https://www.amazon.com/UIOTEC-Smartsense-Temperature-Detecting-Compatible/dp/B07DNXVGCM/ref=sr_1_2?keywords=flame+sensor+arduino&qid=1681649329&sprefix=flame+se%2Caps%2C369&sr=8-2)
+* [3x Flame Sensor](https://www.amazon.com/UIOTEC-Smartsense-Temperature-Detecting-Compatible/dp/B07DNXVGCM/ref=sr_1_2?keywords=flame+sensor+arduino&qid=1681649329&sprefix=flame+se%2Caps%2C369&sr=8-2)
 * [Bluetooth HC-05](https://www.amazon.com/Phoncoo-Wireless-Bluetooth-Transceiver-Converter/dp/B07JH5NQGX/ref=sr_1_3?crid=1G7OUSDC5437H&keywords=bluetooth+hc-05&qid=1681649387&sprefix=bluetooth+hc-%2Caps%2C357&sr=8-3)
 * [Gas Sensor MQ2](https://www.amazon.com/Reland-Sun-MQ-2-Sensor-Module/dp/B09NN39G8X/ref=sr_1_5?crid=2WX90197V4BS1&keywords=Gas+sensor+mq2+arduino&qid=1681649460&sprefix=gas+sensor+q2+arduino%2Caps%2C482&sr=8-5)
 * [Motor Driver L298N](https://www.amazon.com/Bridge-Stepper-Driver-Module-Controller/dp/B09T6K9RFZ/ref=sr_1_2?crid=EYTFOL2Y9HKA&keywords=motor+driver+l298&qid=1681649575&sprefix=motor+driver+l29%2Caps%2C361&sr=8-2)
