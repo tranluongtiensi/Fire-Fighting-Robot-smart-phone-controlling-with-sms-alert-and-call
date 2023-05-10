@@ -3,6 +3,8 @@
 
 ![](/Shortvideo/video.gif)
 
+![](/Image/circuit.jpg)
+
 ## Component
 * [Arduino UNO R3](https://www.amazon.com/ARDUINO-A000066-Uno-DIP-1-5/dp/B00CBZ4CII/ref=sr_1_1?keywords=arduino+uno+r3&qid=1681650194&sprefix=arduino+uno%2Caps%2C824&sr=8-1)
 * [3x Flame Sensor](https://www.amazon.com/UIOTEC-Smartsense-Temperature-Detecting-Compatible/dp/B07DNXVGCM/ref=sr_1_2?keywords=flame+sensor+arduino&qid=1681649329&sprefix=flame+se%2Caps%2C369&sr=8-2)
